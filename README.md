@@ -1,7 +1,7 @@
 # VOLUME BOT V2 and Support:
 Join my discord for support and a bunch of cool tools like jito pool bundling scripts, VOLUME BOT V2, maker bots, any other cool stuff for token launches :)
 
-Server: https://discord.gg/rn84eaRv7Y
+My Server: https://discord.gg/YExjxwYS3J
 
 My discord: testicklez
 
