@@ -15,7 +15,7 @@ My TG: @testicklez
 
 3. when running the script for the first time make sure to fund the keypairs after you create them, the public keys of every keypair you make is saved under keyInfo.json for simplicity of the user.
 
-4. send WSOL to your keypairs (WSOL!!!!!)
+4. send WSOL to your keypairs (WSOL!!!!)
 
 5. to run use: npm run bot
 
